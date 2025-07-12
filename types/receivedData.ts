@@ -23,7 +23,7 @@ export type Options = {
   able: string[];
 };
 
-export type Rating = {
+export type RatingData = {
   totalRating: number;
   ratingScore: number;
   score5: number;
