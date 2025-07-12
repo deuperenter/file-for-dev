@@ -31,11 +31,11 @@ export type Detail = {
   rating: {
     totalRating: number;
     ratingScore: number;
-    5: number;
-    4: number;
-    3: number;
-    2: number;
-    1: number;
+    score5: number;
+    score4: number;
+    score3: number;
+    score2: number;
+    score1: number;
   };
   fromSelImg?: string[];
   pDesc: string;
