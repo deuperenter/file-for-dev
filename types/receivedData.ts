@@ -23,20 +23,22 @@ export type Options = {
   able: string[];
 };
 
+export type Rating = {
+  totalRating: number;
+  ratingScore: number;
+  score5: number;
+  score4: number;
+  score3: number;
+  score2: number;
+  score1: number;
+};
+
 export type Detail = {
   pId: string;
   category: string[];
   seller: string;
   options?: Options;
-  rating: {
-    totalRating: number;
-    ratingScore: number;
-    score5: number;
-    score4: number;
-    score3: number;
-    score2: number;
-    score1: number;
-  };
+  rating: Rating;
   fromSelImg?: string[];
   pDesc: string;
   reviews: Reviews;
