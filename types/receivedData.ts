@@ -26,11 +26,13 @@ export type Options = {
 export type RatingData = {
   totalRating: number;
   ratingScore: number;
-  score5: number;
-  score4: number;
-  score3: number;
-  score2: number;
-  score1: number;
+  scores: {
+    score5: number;
+    score4: number;
+    score3: number;
+    score2: number;
+    score1: number;
+  };
 };
 
 export type Detail = {
@@ -38,7 +40,7 @@ export type Detail = {
   category: string[];
   seller: string;
   options?: Options;
-  rating: Rating;
+  rating: RatingData;
   fromSelImg?: string[];
   pDesc: string;
   reviews: Reviews;
