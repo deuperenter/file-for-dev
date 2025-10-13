@@ -1,8 +1,12 @@
 {
-  "pId": "111",
-  "category": [
+  "pid": 7365601728525242000,
+  "categoryName": [
     "Electronics",
     "Laptop"
+  ],
+  "categoryPath": [
+    "/Electronics",
+    "/Electronics/Laptop"
   ],
   "seller": "deuper",
   "rating": {
@@ -17,7 +21,7 @@
     "ratingScore": 3.5
   },
   "options": {
-    "type": {
+    "types": {
       "color": [
         {
           "red": "/detail_ex/img_red.png"
@@ -54,57 +58,53 @@
     "/detail_ex/from_sel_img3.png"
   ],
   "pDesc": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Portable: 어느 곳에서나 사용할 수 있습니다.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Storage: 용랑이 큰 SSD로 용랑이 큰 게임을 설치할 수 있습니다.\"}]}]",
-  "reviews": {
-    "contents": [
-      {
-        "rId": "1",
-        "uName": "Weight",
-        "uProfile": "/detail_ex/profile_1.png",
-        "uCtry": "US",
-        "rTitle": "Good!",
-        "rText": "Good, It's So Light!",
-        "rating": 5,
-        "rImgs": [
-          "/detail_ex/rimg1.png"
-        ],
-        "rDate": "2025-06-28",
-        "rOptions": [
-          {
-            "Color": "Red"
-          },
-          {
-            "SSD": "2TB"
-          }
-        ],
-        "totalUseful": "20",
-        "useful": true
-      },
-      {
-        "rId": "2",
-        "uName": "Speed",
-        "uProfile": "/detail_ex/profile_1.png",
-        "uCtry": "KR",
-        "rTitle": "Bad!",
-        "rText": "Bad, It's Too Slow!",
-        "rating": 2,
-        "rImgs": [
-          "/detail_ex/rimg2.png"
-        ],
-        "rvideos": [
-          "/detail_ex/rvideo1.mp4"
-        ],
-        "rDate": "2025-06-28",
-        "rOptions": [
-          {
-            "Color": "Blue"
-          },
-          {
-            "SSD": "500GB"
-          }
-        ],
-        "totalUseful": "10",
-        "useful": false
-      }
-    ]
-  }
+  "reviews": [
+    {
+      "rid": "1",
+      "uName": "Weight",
+      "uProfile": "/detail_ex/profile_1.png",
+      "uCtry": "US",
+      "rTitle": "Good!",
+      "rText": "Good, It's So Light!",
+      "rating": 5,
+      "rImgs": [
+        "/detail_ex/rimg1.png"
+      ],
+      "rDate": "2025-06-28T01:01:59.235Z",
+      "rOptions": [
+        {
+          "color": "Red"
+        },
+        {
+          "SSD": "2TB"
+        }
+      ],
+      "totalUseful": "20",
+      "useful": true
+    },
+    {
+      "rid": "2",
+      "uName": "Speed",
+      "uProfile": "/detail_ex/profile_1.png",
+      "uCtry": "KR",
+      "rTitle": "Bad!",
+      "rText": "Bad, It's Too Slow!",
+      "rating": 2,
+      "rImgs": [
+        "/detail_ex/rimg2.png"
+      ],
+      "rVideo": "/detail_ex/rvideo1.mp4",
+      "rDate": "2025-06-28T01:05:59.235Z",
+      "rOptions": [
+        {
+          "color": "Blue"
+        },
+        {
+          "SSD": "500GB"
+        }
+      ],
+      "totalUseful": "10",
+      "useful": false
+    }
+  ]
 }

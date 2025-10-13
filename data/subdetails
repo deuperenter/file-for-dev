@@ -1,26 +1,68 @@
 {
-  "pSubId": "234",
-  "pImgs": [
-    "/detail_ex/img01.png",
-    "/detail_ex/img02.png",
-    "/detail_ex/img03.png",
-    "/detail_ex/img04.png",
-    "/detail_ex/img05.png",
-    "/detail_ex/img06.png",
-    "/detail_ex/img07.png",
-    "/detail_ex/img08.png",
-    "/detail_ex/img09.png",
-    "/detail_ex/img10.png"
+  "pSubId": 7365601728667849000,
+  "pMedia": [
+    {
+      "original": "/detail_ex/img01.png",
+      "thumbnail": "/detail_ex/img01.png",
+      "poster": "/detail_ex/img01.png"
+    },
+    {
+      "original": "/detail_ex/img02.png",
+      "thumbnail": "/detail_ex/img02.png",
+      "poster": "/detail_ex/img02.png"
+    },
+    {
+      "original": "/detail_ex/img03.png",
+      "thumbnail": "/detail_ex/img03.png",
+      "poster": "/detail_ex/img03.png"
+    },
+    {
+      "original": "/detail_ex/img04.png",
+      "thumbnail": "/detail_ex/img04.png",
+      "poster": "/detail_ex/img04.png"
+    },
+    {
+      "original": "/detail_ex/img05.png",
+      "thumbnail": "/detail_ex/img05.png",
+      "poster": "/detail_ex/img05.png"
+    },
+    {
+      "original": "/detail_ex/img06.png",
+      "thumbnail": "/detail_ex/img06.png",
+      "poster": "/detail_ex/img06.png"
+    },
+    {
+      "original": "/detail_ex/img07.png",
+      "thumbnail": "/detail_ex/img07.png",
+      "poster": "/detail_ex/img07.png"
+    },
+    {
+      "original": "/detail_ex/img08.png",
+      "thumbnail": "/detail_ex/img08.png",
+      "poster": "/detail_ex/img08.png"
+    },
+    {
+      "original": "/detail_ex/img09.png",
+      "thumbnail": "/detail_ex/img09.png",
+      "poster": "/detail_ex/img09.png"
+    },
+    {
+      "original": "/detail_ex/img10.png",
+      "thumbnail": "/detail_ex/img10.png",
+      "poster": "/detail_ex/img10.png"
+    },
+    {
+      "original": "/detail_ex/video1.mp4",
+      "thumbnail": "/detail_ex/video1.png",
+      "poster": "/detail_ex/video1.png"
+    },
+    {
+      "original": "/detail_ex/video2.mp4",
+      "thumbnail": "/detail_ex/video2.png",
+      "poster": "/detail_ex/video2.png"
+    }
   ],
-  "pVideo": [
-    "/detail_ex/video1.mp4",
-    "/detail_ex/video2.mp4"
-  ],
-  "pVideoThumb": [
-    "/detail_ex/from_sel_img1.png",
-    "/detail_ex/from_sel_img2.png"
-  ],
-  "pName": "Lightweight Netbook, Color Red, 500GB SSD For Game",
+  "pName": "Lightweight Netbook For Game",
   "pPrice": 300000,
   "pCtry": "KR",
   "discount": 25,

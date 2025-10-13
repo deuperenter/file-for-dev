@@ -1,0 +1,38 @@
+{
+  "Sort": [
+    "Relevance",
+    "Price: Low To High",
+    "Price: High To Low",
+    "Newest Arrivals",
+    "Best Sellers"
+  ],
+  "Brands": [
+    "Lenovo",
+    "HP",
+    "LG"
+  ],
+  "Ram Size": [
+    "8GB",
+    "16GB",
+    "32GB",
+    "64GB"
+  ],
+  "Hard Drive Size": [
+    "256GB",
+    "512GB",
+    "1TB",
+    "2TB"
+  ],
+  "Operating System": [
+    "Windows 11 Pro",
+    "Windows 10 Pro",
+    "Windows 11 Home",
+    "Windows 10 Home",
+    "Ubuntu",
+    "Mac OS"
+  ],
+  "Price": [
+    "8",
+    "10000"
+  ]
+}

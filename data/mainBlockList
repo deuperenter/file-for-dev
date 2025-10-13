@@ -1,0 +1,120 @@
+{
+  "Clothing": [
+    "/detail_ex/img_blue.png",
+    "/Fashion/Clothing"
+  ],
+  "Beverages": [
+    "/detail_ex/img_black.png",
+    "/Food/Beverages"
+  ],
+  "Games": [
+    "/detail_ex/img_red.png",
+    "/Electronics/Games"
+  ],
+  "TV": [
+    "/detail_ex/img_white.png",
+    "/Electronics/TV"
+  ],
+  "Electronics": {
+    "Desktop": [
+      "/detail_ex/img_red.png",
+      "/Electronics/Desktop"
+    ],
+    "All-In-Ones": [
+      "/detail_ex/img_blue.png",
+      "/Electronics/All-In-Ones"
+    ],
+    "Laptop": [
+      "/detail_ex/img_white.png",
+      "/Electronics/Laptop"
+    ],
+    "Tablet": [
+      "/detail_ex/img_black.png",
+      "/Electronics/Tablet"
+    ]
+  },
+  "Fresh Food": {
+    "Meat & Seafood": [
+      "/detail_ex/img_red.png",
+      "/Food/Meat & Seafood"
+    ],
+    "Dairy & Eggs": [
+      "/detail_ex/img_blue.png",
+      "/Food/Dairy & Eggs"
+    ],
+    "Organic Foods": [
+      "/detail_ex/img_white.png",
+      "/Food/Organic Foods"
+    ],
+    "Gluten Free": [
+      "/detail_ex/img_black.png",
+      "/Food/Gluten Free"
+    ]
+  },
+  "Leisure": {
+    "Water Sports": [
+      "/detail_ex/img_red.png",
+      "/Sport/Water Sports"
+    ],
+    "Fishing": [
+      "/detail_ex/img_blue.png",
+      "/Sport/Fishing"
+    ],
+    "Cycling": [
+      "/detail_ex/img_white.png",
+      "/Sport/Cycling"
+    ],
+    "Golf": [
+      "/detail_ex/img_black.png",
+      "/Sport/Golf"
+    ]
+  },
+  "Books for Students": {
+    "Natural Sciences": [
+      "/detail_ex/img_red.png",
+      "/Books/Natural Sciences"
+    ],
+    "Mathematics": [
+      "/detail_ex/img_blue.png",
+      "/Books/Mathematics"
+    ],
+    "Literature": [
+      "/detail_ex/img_white.png",
+      "/Books/Literature"
+    ],
+    "History": [
+      "/detail_ex/img_black.png",
+      "/Books/History"
+    ]
+  },
+  "Pets Supplies": {
+    "Dogs": [
+      "/detail_ex/img_red.png",
+      "/Pets Supplies/Dogs"
+    ],
+    "Cats": [
+      "/detail_ex/img_blue.png",
+      "/Pets Supplies/Cats"
+    ],
+    "Birds": [
+      "/detail_ex/img_white.png",
+      "/Pets Supplies/Birds"
+    ],
+    "Insect": [
+      "/detail_ex/img_black.png",
+      "/Pets Supplies/Insect"
+    ]
+  },
+  "Toy": [
+    "/detail_ex/img_red.png",
+    "/Toy"
+  ],
+  "Kitchin": [
+    "/detail_ex/img_blue.png",
+    "/Kitchin"
+  ],
+  "Office": [
+    "/detail_ex/img_white.png",
+    "/Office"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Desktop": "/detail_ex/img_black.png",
+  "All-In-Ones": "/detail_ex/img_blue.png",
+  "Laptop": "/detail_ex/img_red.png",
+  "Monitor": "/detail_ex/img_white.png",
+  "Tablet": "/detail_ex/img_black.png",
+  "Cell Phones": "/detail_ex/img_blue.png",
+  "EBook Reader": "/detail_ex/img_red.png",
+  "Keyboards, Mice": "/detail_ex/img_white.png",
+  "Computer Components": "/detail_ex/img_black.png",
+  "Cameras": "/detail_ex/img_blue.png",
+  "TV": "/detail_ex/img_red.png",
+  "Video Games & Consoles": "/detail_ex/img_white.png",
+  "Virtual Reality": "/detail_ex/img_black.png"
+}

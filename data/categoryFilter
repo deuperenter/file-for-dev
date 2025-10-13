@@ -1,0 +1,21 @@
+{
+  "Electronics": [
+    "Laptop",
+    "Monitor",
+    "Keyboards, Mice",
+    "Computer Components"
+  ],
+  "Books": [
+    "Information Sciences"
+  ],
+  "Toys": [
+    "Action Figures & Statues"
+  ],
+  "Furniture": [
+    "Office"
+  ],
+  "Office": [
+    "Desk organizers",
+    "Notebooks & pads"
+  ]
+}

@@ -1,14 +1,22 @@
 [
   [
-    "US",
+    "en-US",
     "United States"
   ],
   [
-    "CA",
+    "es-US",
+    "United States"
+  ],
+  [
+    "en-CA",
     "Canada"
   ],
   [
-    "KR",
+    "es-CA",
+    "Canada"
+  ],
+  [
+    "kr-KR",
     "Republic Of Korea"
   ]
 ]
