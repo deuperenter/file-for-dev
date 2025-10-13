@@ -1,21 +1,21 @@
-MIT License
+# Creative Commons Zero v1.0 Universal (CC0 1.0)
 
-Copyright (c) 2025 deuperenter
+The contents of the following directories in this repository are released into the public domain:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+- /data
+- /logo
+- /originals
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+To the extent possible under law, [Deuperenter] has waived all copyright and related or neighboring rights to the works in these folders.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+More info: https://creativecommons.org/publicdomain/zero/1.0/
+
+---
+
+# Pexels License (for /edited_from_pexels)
+
+Files in `/edited_from_pexels/` are based on media from [Pexels](https://www.pexels.com), and remain under the [Pexels License](https://www.pexels.com/license/).
+
+These files are **not** in the public domain and may have usage restrictions (e.g., no resale or redistribution as-is).
